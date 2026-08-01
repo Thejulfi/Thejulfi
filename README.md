@@ -9,9 +9,10 @@ Here are a few things to know about me at the moment:
 - The projects below are the ones I'm currently working on 
 - Owner of a Raspberry Pi on which I deploy self-hosted services for my personal use.
 
-## Languages I know
+## Languages & tools I know
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
