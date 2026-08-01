@@ -1,13 +1,12 @@
 ## Who Am I?
 
-I'm a C embedded engineer currently working in the access control field.
+A C embedded engineer currently working in the access control field.
 
 I'm interested in cryptography and the broader field of software development, and I'm passionate about topics surrounding self-hosting and digital autonomy—subjects I'm actively working on.
 
-Here are a few things to know about me:
+Here are a few things to know about me at the moment:
 - Beginner in Rust
 - The projects below are the ones I'm currently working on 
-- If you find something about me and my interests that resonates with you, let's collaborate!
 - Owner of a Raspberry Pi on which I deploy self-hosted services for my personal use.
 
 ## Languages I know
