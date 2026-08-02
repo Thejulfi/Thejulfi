@@ -7,7 +7,7 @@ I'm interested in cryptography and the broader field of software development, an
 Here are a few things to know about me at the moment:
 - Beginner in Rust
 - The projects below are the ones I'm currently working on 
-- Owner of a Raspberry Pi on which I deploy self-hosted services for my personal use.
+- Owner of Raspberry Pi(s) on which I deploy self-hosted services for my personal use.
 
 ## Languages & tools I know
 
